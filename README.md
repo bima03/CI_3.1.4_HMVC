@@ -1,6 +1,6 @@
-# Codeigniter 3 with HMVC
+# Codeigniter 3.1.4 with HMVC
 
-This is the combination between 3 CodeIgniter and HMVC Modular Extension (created by "wiredesignz").
+This is the combination between 3.1.4 CodeIgniter and HMVC Modular Extension (created by "wiredesignz").
 
 This version is already configured to work with HMVC, Eliminating the need to download the files HMVC on Bitbucket and copy to the Corresponding folders.
 
